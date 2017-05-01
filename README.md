@@ -1,3 +1,2 @@
 # try-demo
-for lecture
-adsfasdfaa
+this will be presented in class
